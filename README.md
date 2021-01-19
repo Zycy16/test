@@ -1,2 +1,2 @@
 # test
-this is a test repository for myself
+this is a test repository for me
